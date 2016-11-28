@@ -1,0 +1,30 @@
+{
+  "name": "mel-james-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babelify": "^7.3.0",
+    "budo": "^9.2.2",
+    "clone": "^2.1.0",
+    "redux": "^3.6.0",
+    "yo-yo": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "budo index.js --css index.css --live --port 4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Brown98/mel-james-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/James-Brown98/mel-james-games/issues"
+  },
+  "homepage": "https://github.com/James-Brown98/mel-james-games#readme"
+}
